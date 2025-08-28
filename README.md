@@ -1,3 +1,4 @@
+A modern web application that allows users to discover, book, and review stays while enabling hosts to showcase and manage their listings.
 
 ✨ Features
 
